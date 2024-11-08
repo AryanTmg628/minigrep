@@ -1,0 +1,6 @@
+This is my first command line application using rust
+My name is Example 
+I live in Nepal 
+What do you think 
+I am going to be the king of cyber world
+I am learning rust for creating malware
