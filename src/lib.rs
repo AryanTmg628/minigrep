@@ -40,6 +40,7 @@ impl Config {
             Ok(file) => {
                 // searching fro the query in the file
 
+                println!("");
                 for line in Self::search(&config.query_string, &file) {
                     println!("{}", line);
                 }
